@@ -6,6 +6,7 @@ Flask
 Flask-Migrate
 Flask-SQLAlchemy
 GeoAlchemy2
+gunicorn
 isort
 itsdangerous
 Jinja2
